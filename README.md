@@ -1,0 +1,2 @@
+# forex
+auto trade forex
